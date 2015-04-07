@@ -3,7 +3,7 @@ USE IEEE.STD_LOGIC_1164.ALL;
 USE IEEE.NUMERIC_STD.ALL;
 
 library work;
-use work.sqrt_package.all;
+--use work.sqrt_package.all;
 
 entity euclidean_single is
 	port(	
