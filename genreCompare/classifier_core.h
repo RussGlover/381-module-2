@@ -8,7 +8,7 @@
 #include <stdbool.h>
 
 
-#define classifier_core_base (volatile int *) 0x2800
+#define classifier_core_base (volatile int *) 0x2400
 
 unsigned int encode(short int address, unsigned short int value);
 
